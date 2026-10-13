@@ -46,4 +46,4 @@ Suggestions, bug reports, and improvements are welcome. Feel free to open an iss
 
 ---
 
-**Made to help engineering aspirants make more informed college choices.**
+**Made to help engineering aspirants make more informed college choices.*
